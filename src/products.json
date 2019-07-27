@@ -1,0 +1,28 @@
+{"Product": [
+    {"id": "",
+     "categoryId": "fruit",
+     "name": "Banana",
+     "itemsInStock": 100
+     },
+     {"id": "",
+        "categoryId": "fruit",
+        "name": "Orange",
+        "itemsInStock": 69
+    },
+    {"id": "",
+        "categoryId": "fruit",
+        "name": "Cherry",
+        "itemsInStock": 30
+    },
+    {"id": "",
+        "categoryId": "vegtable",
+        "name": "cucumber",
+        "itemsInStock": 129
+    
+    },
+    {"id": "",
+        "categoryId": "vegtable",
+        "name": "Tomato",
+        "itemsInStock": 250
+    }]
+}
